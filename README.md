@@ -33,3 +33,5 @@ Random Forest Model had the highest accuracy.
 
 ## Link to Dataset:
 [Dataset](https://github.com/Ashna-20/HealthcareDataAnalysis/blob/main/Dataset%20of%20Diabetes%20.csv)
+## Link to EDA Notebook:
+[EDA Notebook](https://github.com/Ashna-20/HealthcareDataAnalysis/blob/main/Ashna_Assignment5_3830.ipynb)
