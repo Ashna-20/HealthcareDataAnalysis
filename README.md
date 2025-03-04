@@ -31,4 +31,5 @@ This project focuses on predicting diabetes using a healthcare dataset. The data
 ## Best Model:
 Random Forest Model had the highest accuracy.
 
-## Link to EDA Notebook:
+## Link to Dataset:
+[Dataset](https://github.com/Ashna-20/HealthcareDataAnalysis/blob/main/Dataset%20of%20Diabetes%20.csv)
